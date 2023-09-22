@@ -7,12 +7,13 @@ Setup:
 pip install -r requirements.txt
 ```
 Requirements:
+- ffmpeg
 - openai-whisper
 - moviepy
 
 Usage:
 ```
-python transcriber.py
+python main.py
 ```
 
 To do list:
